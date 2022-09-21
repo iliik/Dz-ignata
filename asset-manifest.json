@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dz-ignata/static/css/main.7165006f.chunk.css",
+    "main.js": "/Dz-ignata/static/js/main.c29fc3ea.chunk.js",
+    "main.js.map": "/Dz-ignata/static/js/main.c29fc3ea.chunk.js.map",
+    "runtime-main.js": "/Dz-ignata/static/js/runtime-main.6754873b.js",
+    "runtime-main.js.map": "/Dz-ignata/static/js/runtime-main.6754873b.js.map",
+    "static/js/2.3196abc5.chunk.js": "/Dz-ignata/static/js/2.3196abc5.chunk.js",
+    "static/js/2.3196abc5.chunk.js.map": "/Dz-ignata/static/js/2.3196abc5.chunk.js.map",
+    "index.html": "/Dz-ignata/index.html",
+    "precache-manifest.c88bb6076864d8e84a57576a484b8e31.js": "/Dz-ignata/precache-manifest.c88bb6076864d8e84a57576a484b8e31.js",
+    "service-worker.js": "/Dz-ignata/service-worker.js",
+    "static/css/main.7165006f.chunk.css.map": "/Dz-ignata/static/css/main.7165006f.chunk.css.map",
+    "static/js/2.3196abc5.chunk.js.LICENSE.txt": "/Dz-ignata/static/js/2.3196abc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6754873b.js",
+    "static/js/2.3196abc5.chunk.js",
+    "static/css/main.7165006f.chunk.css",
+    "static/js/main.c29fc3ea.chunk.js"
+  ]
+}
